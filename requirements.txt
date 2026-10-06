@@ -1,0 +1,6 @@
+streamlit
+numpy
+pydicom
+Pillow
+opencv-python-headless
+tensorflow
